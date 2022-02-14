@@ -1,5 +1,5 @@
 # HexaPuzzle
-- 퍼즐 장르를 이해와 구현 가능성을 테스트하기 위한 프로젝트입니다.
+- 퍼즐 장르 이해와 구현 가능성을 테스트하기 위한 프로젝트입니다.
 
 ## 1.퍼즐 로직
 ![기본로직](https://user-images.githubusercontent.com/12422388/153790250-34e5f042-e779-4b1f-aff9-d8b3b455e7b0.gif)<br>
